@@ -1,0 +1,821 @@
+ticker,name,sector,weight
+005930.KS,"Samsung Electronics Co., Ltd.",Information Technology,0.29052316758406266
+000660.KS,SK hynix Inc.,Information Technology,0.23705915191421967
+402340.KS,"SK Square Co., Ltd.",Information Technology,0.028174215302576085
+009150.KS,"Samsung Electro-Mechanics Co., Ltd.",Information Technology,0.020645895654397405
+373220.KS,"LG Energy Solution, Ltd.",Industrials,0.01568130215513511
+005380.KS,Hyundai Motor Company,Consumer Discretionary,0.01310877546433854
+207940.KS,"Samsung Biologics Co.,Ltd.",Health Care,0.01207364674631622
+105560.KS,KB Financial Group Inc.,Financials,0.011125226978737668
+028260.KS,Samsung C&T Corporation,Industrials,0.01039567745195929
+034020.KS,"Doosan Enerbility Co., Ltd.",Industrials,0.00978992413804244
+012450.KS,"Hanwha Aerospace Co., Ltd.",Industrials,0.009725292418713536
+032830.KS,"Samsung Life Insurance Co., Ltd.",Financials,0.00950588374202454
+055550.KS,"Shinhan Financial Group Co., Ltd.",Financials,0.009377978960928011
+329180.KS,"HD Hyundai Heavy Industries Co., Ltd.",Industrials,0.008538828783943322
+000270.KS,Kia Corporation,Consumer Discretionary,0.008229483407340366
+068270.KS,"Celltrion, Inc.",Health Care,0.007606233609437653
+006400.KS,"Samsung SDI Co., Ltd.",Industrials,0.007468390799909156
+086790.KS,Hana Financial Group Inc.,Financials,0.006518190959786026
+066570.KS,LG Electronics Inc.,Information Technology,0.0064738842667724636
+012330.KS,"Hyundai Mobis Co.,Ltd",Consumer Discretionary,0.00609450424816311
+034730.KS,SK Inc.,Industrials,0.00602012547096709
+010120.KS,"LS ELECTRIC Co., Ltd.",Industrials,0.00572548236813827
+035420.KS,NAVER Corporation,Communication Services,0.0054469331540350895
+298040.KS,Hyosung Heavy Industries Corporation,Industrials,0.004847064590223604
+316140.KS,Woori Financial Group Inc.,Financials,0.004769536476453859
+000810.KS,"Samsung Fire & Marine Insurance Co., Ltd.",Financials,0.004732531198841226
+096770.KS,"SK Innovation Co., Ltd.",Energy,0.00472191290360938
+042700.KS,"HANMI Semiconductor Co., Ltd.",Information Technology,0.004567057709920614
+042660.KS,"Hanwha Ocean Co., Ltd.",Industrials,0.004531617227191721
+267260.KS,"HD Hyundai Electric Co., Ltd.",Industrials,0.004472707666265286
+005490.KS,POSCO Holdings Inc.,Materials,0.004343708002584891
+009540.KS,"HD Korea Shipbuilding & Offshore Engineering Co., Ltd.",Industrials,0.004294193477475011
+010130.KS,"Korea Zinc Company, Ltd.",Materials,0.0040960748786850075
+138040.KS,Meritz Financial Group Inc.,Financials,0.0038145335643074013
+011200.KS,"HMM Co.,Ltd",Industrials,0.0036916913489109717
+015760.KS,Korea Electric Power Corporation,Utilities,0.0036091555734177124
+000150.KS,Doosan Corporation,Industrials,0.0034936536811115576
+033780.KS,KT&G Corporation,Consumer Staples,0.0034335632532211616
+017670.KS,"SK Telecom Co., Ltd.",Communication Services,0.003423510321022787
+010950.KS,S-Oil Corporation,Energy,0.0034172762184312058
+051910.KS,"LG Chem, Ltd.",Materials,0.003326054455384204
+018260.KS,"Samsung SDS Co., Ltd.",Information Technology,0.003179827250046547
+010140.KS,"Samsung Heavy Industries Co., Ltd.",Industrials,0.0031582044081694713
+003550.KS,LG Corp.,Information Technology,0.0031446088582035435
+024110.KS,Industrial Bank of Korea,Financials,0.0030237072293841536
+003670.KS,"Posco Future M Co., Ltd.",Industrials,0.0029853337409638274
+079550.KS,"LIG Defense&Aerospace Co., Ltd.",Industrials,0.002796658535598617
+035720.KS,Kakao Corp.,Communication Services,0.0027864866161750133
+086280.KS,"Hyundai Glovis Co., Ltd.",Industrials,0.0027706674783905807
+267250.KS,"HD Hyundai Co., Ltd.",Energy,0.002686262937117842
+272210.KS,"Hanwha Systems Co., Ltd.",Industrials,0.002632602372616379
+278470.KS,"APR Co., Ltd.",Consumer Staples,0.002572133897998361
+006800.KS,"Mirae Asset Securities Co., Ltd.",Financials,0.0025354407561157025
+011070.KS,"LG Innotek Co., Ltd.",Information Technology,0.0025053858187326005
+000720.KS,"Hyundai Engineering & Construction Co.,Ltd.",Industrials,0.0024561145733383223
+030200.KS,KT Corporation,Communication Services,0.0023240479078046818
+047810.KS,"Korea Aerospace Industries, Ltd.",Industrials,0.0023091445762461788
+064350.KS,Hyundai Rotem Company,Industrials,0.002286416354559534
+003490.KS,"Korean Airlines Co.,Ltd.",Industrials,0.0022118522845082636
+005830.KS,"DB Insurance Co., Ltd.",Financials,0.002105977923915314
+443060.KS,"HD Hyundai Marine Solution CO.,LTD.",Industrials,0.002002888063114199
+307950.KS,Hyundai Autoever Corporation,Information Technology,0.001902142317273564
+078930.KS,GS Holdings Corp.,Industrials,0.001869336509629081
+047050.KS,Posco International Corporation,Industrials,0.0018205108624258781
+005940.KS,"NH Investment & Securities Co., Ltd.",Financials,0.001798603062091413
+323410.KS,KakaoBank Corp.,Financials,0.0017794100111156296
+028050.KS,"Samsung E&A Co., Ltd.",Industrials,0.0017549813271659279
+071050.KS,"Korea Investment Holdings Co., Ltd.",Financials,0.0017522626192761385
+003230.KS,"Samyang Foods Co., Ltd.",Consumer Staples,0.0017152505503933329
+180640.KS,Hanjin Kal,Real Estate,0.0016592704103726207
+0126Z0.KS,"Samsung Epis Holdings Co., Ltd.",Health Care,0.0016131403300352722
+259960.KS,"KRAFTON, Inc.",Communication Services,0.0015899527244911964
+007660.KS,"ISU Petasys Co., Ltd.",Information Technology,0.0015860759389407003
+006260.KS,LS Corp.,Industrials,0.0015836946602625402
+090430.KS,Amorepacific Corporation,Consumer Staples,0.00151657213365913
+016360.KS,"Samsung Securities Co.,Ltd.",Financials,0.001481841568733915
+009830.KS,Hanwha Solutions Corporation,Information Technology,0.0014155982815244484
+047040.KS,"Daewoo Engineering & Construction Co., Ltd.",Industrials,0.0013682728610333124
+161390.KS,"Hankook Tire & Technology Co., Ltd.",Consumer Discretionary,0.0013510451198729095
+021240.KS,"COWAY Co., Ltd.",Consumer Discretionary,0.0013085235443950607
+064400.KS,"LG CNS Co., Ltd.",Information Technology,0.001251259191888861
+352820.KS,"HYBE Co., Ltd.",Communication Services,0.0012460793345424653
+039490.KS,"Kiwoom Securities Co., Ltd.",Financials,0.0012382446105534393
+000880.KS,Hanwha Corporation,Industrials,0.0012361537681073807
+353200.KS,"DAEDUCK ELECTRONICS Co., Ltd.",Information Technology,0.0012291068682108834
+062040.KS,"Sanil Electric Co., Ltd.",Industrials,0.001218823027158269
+128940.KS,"Hanmi Pharm. Co., Ltd.",Health Care,0.0011885837589102795
+032640.KS,LG Uplus Corp.,Communication Services,0.0011576237192494022
+267270.KS,"HD Construction Equipment Co., Ltd.",Industrials,0.0011030605387743763
+000990.KS,"DB HiTek CO., LTD.",Information Technology,0.0010966586739751822
+326030.KS,"SK Biopharmaceuticals Co., Ltd.",Health Care,0.001093720198693342
+001440.KS,"Taihan Cable & Solution Co., Ltd.",Industrials,0.0010872983363200857
+377300.KS,Kakao Pay Corp.,Information Technology,0.0010118782632108157
+000100.KS,Yuhan Corporation,Health Care,0.0010060054947687946
+175330.KS,"JB Financial Group Co., Ltd.",Financials,0.0010052505282958318
+241560.KS,Doosan Bobcat Inc.,Industrials,0.0009813354481519655
+000500.KS,"GAON CABLE Co., Ltd.",Information Technology,0.0009781960215012706
+138930.KS,BNK Financial Group Inc.,Financials,0.0009169649480512581
+011790.KS,"SKC Co., Ltd.",Materials,0.0009050639587723563
+052690.KS,"KEPCO Engineering & Construction Company, Inc.",Industrials,0.0008755259887177617
+029780.KS,"Samsung Card Co., Ltd.",Financials,0.0008453147536741048
+454910.KS,Doosan Robotics Inc.,Industrials,0.0008347012386696513
+066970.KS,"L&F Co., Ltd.",Industrials,0.0008300261174031637
+271560.KS,ORION Corp.,Consumer Staples,0.0007932119590815912
+034220.KS,"LG Display Co., Ltd.",Information Technology,0.0007818313040308888
+082740.KS,"Hanwha Engine Co., Ltd.",Industrials,0.0007673493508062242
+036570.KS,NC Corporation,Communication Services,0.0007639509377398635
+088350.KS,"Hanwha Life Insurance Co., Ltd.",Financials,0.0007517800800086396
+004020.KS,Hyundai Steel Company,Materials,0.0007407916686343636
+051900.KS,"LG H&H Co., Ltd.",Consumer Staples,0.0007402491220100494
+103590.KS,"Iljin Electric Co.,Ltd",Industrials,0.000738351852360001
+001450.KS,"Hyundai Marine & Fire Insurance Co., Ltd.",Financials,0.0007123603319661336
+001040.KS,CJ Corporation,Industrials,0.0006816376095180952
+018880.KS,Hanon Systems,Consumer Discretionary,0.0006781011034638726
+008930.KS,"Hanmi Science Co., Ltd.",Health Care,0.0006715039716806554
+002380.KS,KCC Corporation,Materials,0.0006495183142760779
+161890.KS,"Kolmar Korea Co., Ltd.",Consumer Staples,0.0006469285635938348
+088980.KS,Macquarie Korea Infrastructure Fund,,0.0006414472068302466
+028670.KS,"Pan Ocean Co., Ltd.",Industrials,0.0005789993135366699
+036460.KS,Korea Gas Corporation,Utilities,0.0005701239831495483
+192820.KS,"Cosmax, Inc.",Consumer Staples,0.0005686422862712378
+022100.KS,Posco Dx Company Ltd.,Information Technology,0.0005674211275868706
+336260.KS,"Doosan Fuel Cell Co., Ltd.",Industrials,0.0005599295005626222
+004170.KS,SHINSEGAE Inc.,Consumer Discretionary,0.0005538190092451036
+031210.KS,Seoul Guarantee Insurance Company,Financials,0.0005524403767669111
+111770.KS,Youngone Corporation,Consumer Discretionary,0.0005496538192289478
+375500.KS,"DL E&C Co.,Ltd.",Industrials,0.0005484703429944791
+139130.KS,"iM Financial Group Co., Ltd.",Financials,0.00054311454471356
+006360.KS,GS Engineering & Construction Corporation,Industrials,0.0005409893412715843
+023530.KS,"Lotte Shopping Co., Ltd.",Consumer Discretionary,0.0005381107211453326
+302440.KS,"SK bioscience Co.,Ltd.",Health Care,0.0005316605973631384
+035250.KS,"Kangwon Land, Inc.",Consumer Discretionary,0.0005305271919593157
+012750.KS,S-1 Corporation,Industrials,0.0005242353921247112
+014680.KS,"Hansol Chemical Co., Ltd.",Materials,0.0005205210954844673
+251270.KS,Netmarble Corporation,Communication Services,0.0005173561244058566
+017800.KS,"Hyundai Elevator Co., Ltd",Industrials,0.0004947536476607018
+097950.KS,CJ Cheiljedang Corporation,Consumer Staples,0.0004938285553906579
+004800.KS,Hyosung Corporation,Industrials,0.0004908048344793776
+011780.KS,"Kumho Petro Chemical Co.,Ltd",Materials,0.0004843559693047608
+003690.KS,Korean Reinsurance Company,Financials,0.0004839957833754174
+383220.KS,"F&F Co., Ltd",Consumer Discretionary,0.0004826585297479156
+489790.KS,"Hanwha Vision CO.,LTD",Industrials,0.00047661264430464806
+011170.KS,Lotte Chemical Corporation,Materials,0.0004749233449162093
+007340.KS,DN Automotive Corporation,Consumer Discretionary,0.00047319519344895145
+026960.KS,Dong Suh Companies Inc.,Consumer Staples,0.0004695557871247818
+085620.KS,"MIRAE ASSET Life Insurance Co., Ltd.",Financials,0.00046713019023869167
+450080.KS,"Ecopro Materials Co., Ltd.",Industrials,0.00046258934245620365
+457190.KS,"ISU Specialty Chemical Co., Ltd.",,0.0004521001176800277
+000240.KS,"Hankook & Company Co., Ltd.",Consumer Discretionary,0.00044627745785748855
+004370.KS,"Nongshim Co., Ltd.",Consumer Staples,0.00044189797182289447
+483650.KS,"d'Alba Global Co., Ltd.",Consumer Staples,0.00043384419120422304
+005440.KS,"Hyundai G.F. Holdings Co., Ltd.",Consumer Staples,0.00043275633821490293
+005850.KS,SL Corporation,Consumer Discretionary,0.00042621243080938874
+282330.KS,"BGF Retail Co., Ltd.",Consumer Staples,0.0004215604263141312
+009420.KS,"Hanall Biopharma Co., Ltd.",Health Care,0.00042101501206772747
+020150.KS,Lotte Energy Materials Corporation,Industrials,0.00041284999889216393
+279570.KS,"K Bank Co.,Ltd.",Financials,0.00041047492451745107
+018670.KS,"SK Gas Co., Ltd.",Energy,0.00040560995400122586
+204320.KS,HL Mando Corporation,Consumer Discretionary,0.0004023836113990861
+103140.KS,Poongsan Corporation,Industrials,0.00039787760595016037
+112610.KS,CS Wind Corporation,Industrials,0.0003975969292252675
+010060.KS,OCI Holdings Company Ltd.,Financials,0.00037164698919181825
+002790.KS,AMOREPACIFIC Holdings Corp.,Consumer Staples,0.00037014885916747186
+081660.KS,Misto Holdings Corp.,Consumer Discretionary,0.0003700552336862276
+051600.KS,"KEPCO Plant Service & Engineering Co.,Ltd.",Industrials,0.0003691407585538367
+073240.KS,"Kumho Tire Co., Inc.",Consumer Discretionary,0.0003596660733474751
+139480.KS,E-MART Inc.,Consumer Staples,0.0003595423929307132
+069960.KS,Hyundai Department Store Co. Ltd.,Consumer Discretionary,0.0003587953751197912
+229640.KS,LS Eco Energy Ltd.,Industrials,0.00035642168624970707
+030000.KS,Cheil Worldwide Inc.,Communication Services,0.00035627542062988924
+009970.KS,"Youngone Holdings Co., Ltd.",Consumer Discretionary,0.0003537735846158646
+007070.KS,"GS Retail Co., Ltd.",Consumer Discretionary,0.0003521615029605295
+089860.KS,"LOTTE rental co.,ltd.",Industrials,0.00034487959138808025
+004990.KS,LOTTE Corporation,Consumer Staples,0.0003433339060663098
+007810.KS,"Korea Circuit Co., Ltd.",Information Technology,0.00033449027034879116
+462870.KS,SHIFT UP Corporation,Communication Services,0.0003314146865031009
+020560.KS,"Asiana Airlines, Inc.",Industrials,0.0003293032971549274
+281820.KS,"KCTech Co., Ltd.",Information Technology,0.0003256145380910132
+439260.KS,"Daehan Shipbuilding Co., Ltd.",Industrials,0.0003213839896621519
+475150.KS,"SK eternix Co., Ltd.",Utilities,0.00031537560555049707
+181710.KS,NHN Corporation,Communication Services,0.0003138582310441641
+120110.KS,"Kolon Industries, Inc.",Materials,0.0003095942915107251
+071970.KS,"HD-Hyundai Marine Engine Co., Ltd.",Industrials,0.00030946320678355415
+023590.KS,Daou Technology Inc.,Financials,0.00030375166155794964
+001430.KS,SeAH Besteel Holdings Corporation,Materials,0.00030259635545628065
+093370.KS,"Foosung Co., Ltd.",Materials,0.00030200086861278816
+395400.KS,"SK Reits Co., Ltd.",Real Estate,0.0002955232512681551
+006040.KS,"Dongwon Industries Co., Ltd.",Consumer Staples,0.00029249142737467675
+001120.KS,LX International Corp.,Industrials,0.0002923486145959736
+001820.KS,"SAMWHA CAPACITOR Co.,LTD",Information Technology,0.0002911329535859497
+008770.KS,"Hotel Shilla Co.,Ltd",Consumer Discretionary,0.0002744949078888829
+294870.KS,IPARK Hyundai Development Company,Industrials,0.0002733642248460789
+322000.KS,"HD Hyundai Energy Solutions Co.,Ltd.",Information Technology,0.00026973836990162593
+005070.KS,"Cosmo Advanced Materials & Technology Co., Ltd.",Materials,0.0002695622139700177
+361610.KS,"SK IE Technology Co., Ltd.",Information Technology,0.0002663681767217998
+006280.KS,GC Biopharma Corp.,Health Care,0.0002635164983803117
+000120.KS,CJ Logistics Corporation,Industrials,0.00026207943218706405
+001800.KS,ORION Holdings Corp.,Consumer Staples,0.00026198093766133967
+011210.KS,Hyundai Wia Corporation,Consumer Discretionary,0.0002601241001590584
+097230.KS,"HJ Shipbuilding & Construction Co., Ltd.",Industrials,0.0002482975622386594
+012630.KS,"HDC HOLDINGS CO.,Ltd",Industrials,0.00023369862737833078
+069620.KS,"Daewoong Pharmaceutical Co., Ltd",Health Care,0.000229596823279313
+001740.KS,SK Networks Company Limited,Industrials,0.00022611638868514183
+298020.KS,Hyosung TNC Corporation,Consumer Discretionary,0.00022477525967843135
+300720.KS,"Hanil Cement Co., Ltd.",Materials,0.00022350108612845224
+330590.KS,"LOTTE REIT Co., Ltd.",Real Estate,0.00022131420676116425
+003530.KS,"Hanwha Investment & Securities Co., Ltd.",Financials,0.00022041884189091614
+192080.KS,"DoubleUGames Co., Ltd.",Communication Services,0.0002118312262572256
+001720.KS,"Shinyoung Securities Co., Ltd.",Financials,0.0002108440717113473
+030610.KS,"Kyobo Securities Co.,Ltd.",Financials,0.0002087404125723043
+004000.KS,"LOTTE Fine Chemical Co., Ltd.",Materials,0.0002065431239255754
+006120.KS,"SK Discovery Co., Ltd.",Energy,0.0002065380895702306
+280360.KS,"Lotte Wellfood Co.,Ltd",Consumer Staples,0.00020363720073914273
+007310.KS,Otoki Corporation,Consumer Staples,0.00020336774471073522
+195870.KS,"HAESUNG DS Co., Ltd.",Information Technology,0.0001975320723244812
+000210.KS,"DL Holdings CO., LTD.",Materials,0.00019468209971743004
+017960.KS,"Hankuk Carbon Co., Ltd.",Materials,0.00019449363828668117
+006340.KS,"Daewon Cable. Co., Ltd.",Industrials,0.00019120670301509755
+000080.KS,"HITEJINRO Co., Ltd.",Consumer Staples,0.00019046246479200032
+003160.KS,D.I Corporation,Information Technology,0.0001888375304193086
+003540.KS,"Daishin Securities Co.,Ltd",Financials,0.0001827645875873531
+451800.KS,"Hanwha REIT Co., Ltd.",Real Estate,0.0001803674494095672
+030190.KS,"NICE Information Service Co., Ltd.",Financials,0.00017424064090299266
+006110.KS,"Sam-A Aluminium Company, Limited",Materials,0.00017345637989063908
+032350.KS,"Lotte Tour Development Co., Ltd.",Consumer Discretionary,0.0001728530537945493
+071320.KS,Korea District Heating Corp.,Utilities,0.00017105439370178726
+285130.KS,"SK Chemicals Co.,Ltd",Materials,0.00016629492971311066
+077970.KS,"STX Engine Co.,Ltd.",Industrials,0.00016576191183841028
+009450.KS,"Kyung Dong Navien Co., Ltd.",Industrials,0.0001654946062497304
+005300.KS,"Lotte Chilsung Beverage Co., Ltd.",Consumer Staples,0.00016494675421011194
+185750.KS,Chong Kun Dang Pharmaceutical Corp.,Health Care,0.0001587884484458642
+000370.KS,"Hanwha General Insurance Co., Ltd.",Financials,0.00015843658572738426
+003470.KS,"Yuanta Securities Korea Co., Ltd.",Financials,0.00015751542033600672
+079160.KS,"CJ CGV Co., Ltd.",Communication Services,0.00015727620743648577
+192400.KS,"Cuckoo Holdings Co., Ltd.",Consumer Discretionary,0.0001572227041111182
+034230.KS,"Paradise Co., Ltd.",Consumer Discretionary,0.0001536994870922287
+004490.KS,"Sebang Global Battery Co., Ltd.",Industrials,0.00014886089537086622
+003570.KS,"Snt Dynamics Co.,Ltd.",Industrials,0.00014453458077284435
+003240.KS,"Taekwang Industrial Co., Ltd.",Materials,0.00014376764721262789
+365550.KS,"ESR Kendall Square REIT Co., Ltd.",Real Estate,0.0001432029435079878
+499790.KS,"GS P&L Co., Ltd.",Consumer Discretionary,0.00014261230102452513
+000670.KS,Young Poong Corporation,Information Technology,0.0001425369933532803
+005180.KS,"Binggrae Co., Ltd.",Consumer Staples,0.00014223930042205323
+100840.KS,"SNT Energy Co., Ltd.",Industrials,0.00013780601029644466
+137310.KS,"SD Biosensor, Inc.",Health Care,0.00013764469320387242
+100090.KS,"SK oceanplant Co.,Ltd",Industrials,0.00013698370481902286
+005690.KS,"Pharmicell Co., Ltd.",Health Care,0.00013696573368413725
+214320.KS,Innocean Worldwide Inc.,Communication Services,0.00013673131377090554
+298050.KS,HS Hyosung Advanced Materials Corporation,Consumer Discretionary,0.00013631826108649405
+005090.KS,"SGC Energy Co.,Ltd.",Industrials,0.00012981358329324029
+036530.KS,"SNT Holdings Co., Ltd.",Industrials,0.00012946447915349957
+003850.KS,Boryung Corporation,Health Care,0.00012828220857232352
+002960.KS,"Hankook Shell Oil Co.,Ltd.",Energy,0.0001278711847072173
+090460.KS,"BH Co., Ltd.",Information Technology,0.00012710024026807773
+293940.KS,"Shinhan Alpha REIT Co., Ltd.",Real Estate,0.0001269054470775053
+005880.KS,Korea Line Corporation,Industrials,0.00012419799426039783
+009240.KS,"Hanssem Co., Ltd.",Consumer Discretionary,0.0001204091303421533
+248070.KS,"Solum Co., Ltd.",Information Technology,0.00012036555252199653
+003090.KS,"Daewoong Co., Ltd.",Health Care,0.0001189163923445603
+001570.KS,"Kumyang Co., Ltd.",Materials,0.00011864340590207166
+064960.KS,"SNT Motiv Co., Ltd.",Consumer Discretionary,0.00011811467728718393
+000400.KS,"Lotte Non - Life Insurance Co., Ltd.",Financials,0.00011691929751630709
+001680.KS,Daesang Corporation,Consumer Staples,0.00011687580381851581
+268280.KS,"Miwon Specialty Chemical Co., Ltd.",Materials,0.00011618613344646715
+000640.KS,"Dong-A Socio Holdings Co., Ltd.",Health Care,0.00011584391370201534
+317450.KS,Myung In Pharmaceutical LTD.,Health Care,0.00011579175027406812
+453340.KS,"Hyundai Green Food Co., Ltd",Industrials,0.000115561335469595
+383800.KS,LX Holdings Corp.,Financials,0.00011534189744523025
+002840.KS,"Miwon Commercial Co., Ltd.",Materials,0.0001145446213331586
+014820.KS,Dongwon Systems Corporation,Consumer Discretionary,0.00011373961557316027
+069260.KS,"TKG Huchems Co., Ltd.",Materials,0.00011344368706533273
+001060.KS,JW Pharmaceutical Corporation,Health Care,0.00011238279738972659
+108320.KS,"LX Semicon Co., Ltd.",Information Technology,0.00011174150370715808
+004710.KS,"Hansol Technics Co., Ltd.",Information Technology,0.00010958530285402207
+079900.KS,"Junjin Construction & Robot Co.,Ltd.",Industrials,0.00010909272682635678
+093050.KS,LF Corp.,Consumer Discretionary,0.00010868642315747532
+452260.KS,Hanwha Galleria Corporation,Consumer Discretionary,0.0001056688369930059
+336370.KS,"Solus Advanced Materials Co., Ltd.",Information Technology,0.00010504359060256156
+178920.KS,"PI Advanced Materials Co., Ltd.",Materials,0.0001050128840682827
+456040.KS,OCI Company Ltd.,Materials,0.00010499645046232992
+025540.KS,"Korea Electric Terminal Co., Ltd.",Industrials,0.00010443032418127739
+033240.KS,"Jahwa Electronics. Co., Ltd",Information Technology,0.0001042908837328735
+075580.KS,"Sejin Heavy Industries Co., Ltd.",Industrials,0.00010351328640670447
+016380.KS,"KG Dongbu Steel Co.,Ltd.",Materials,0.00010272458840128328
+002350.KS,Nexen Tire Corporation,Consumer Discretionary,0.00010268201397566117
+006650.KS,"Korea Petrochemical Ind. Co., Ltd.",Materials,0.00010260195583170785
+003300.KS,"Hanil Holdings Co., Ltd.",Materials,0.00010220746441180829
+114090.KS,"Grand Korea Leisure Co., Ltd.",Consumer Discretionary,0.00010194644380071002
+284740.KS,"CUCKOO Homesys Co., Ltd",Industrials,0.0001010161935839284
+017940.KS,E1 Corporation,Energy,9.974082247479895e-05
+009410.KS,"Taeyoung Engineering & Construction Co.,Ltd.",Industrials,9.893108998611682e-05
+192650.KS,"DREAMTECH Co., Ltd.",Information Technology,9.829711002097556e-05
+007700.KS,"F&F Holdings Co., Ltd.",Consumer Discretionary,9.812877669920358e-05
+001530.KS,Di Dong Il Corporation,Consumer Discretionary,9.796564994592716e-05
+058650.KS,SeAH Holdings Corporation,Materials,9.732287975663881e-05
+003620.KS,KG Mobility Corp.,Consumer Discretionary,9.459192628253364e-05
+005810.KS,Poongsan Holdings Corporation,Materials,9.347378807872446e-05
+161000.KS,"Aekyungchemical Co., Ltd.",Materials,9.346007478956323e-05
+484870.KS,"MNC Solution Co.,Ltd",Industrials,9.119127774562592e-05
+017900.KS,AUK Corp.,Information Technology,9.038036969051446e-05
+001500.KS,"Hyundai Motor Securities Co.,Ltd.",Financials,9.007004876838729e-05
+003030.KS,SeAH Steel Holdings Corporation,Materials,8.975327710915796e-05
+001510.KS,"SK Securities Co., Ltd.",Financials,8.915044759141028e-05
+008060.KS,"Daeduck Co.,Ltd.",Information Technology,8.880044113942515e-05
+029460.KS,"KC Co., Ltd.",Information Technology,8.86477232882985e-05
+377740.KS,"BioNote, Inc.",Health Care,8.855763801990075e-05
+460860.KS,Dongkuk Steel Mill Company Limited,Materials,8.789696610878237e-05
+019170.KS,"Shinpoong Pharmaceutical Co.,Ltd",Health Care,8.764888329654043e-05
+002990.KS,"KUMHO Engineering & Construction Co., Ltd.",Industrials,8.54910992397066e-05
+448730.KS,"Samsung FN REIT Co., Ltd.",Real Estate,8.477341453800983e-05
+020000.KS,HANDSOME Corporation,Consumer Discretionary,8.466245155807546e-05
+002240.KS,Kiswire Ltd.,Materials,8.383028205022735e-05
+145990.KS,Samyang Corporation,Consumer Staples,8.346769056016856e-05
+039130.KS,Hanatour Service Inc.,Consumer Discretionary,8.272368918213484e-05
+004690.KS,"Samchully Co.,Ltd",Utilities,8.272057097046247e-05
+249420.KS,"Ildong Pharmaceutical Co., Ltd.",Health Care,8.250747842787005e-05
+003280.KS,"Heung-A Shipping Co.,Ltd.",Industrials,8.168758686076623e-05
+306200.KS,SeAH Steel Corporation,Materials,8.156596522253125e-05
+010780.KS,"IS DongSeo Co., Ltd.",Industrials,8.152020781431447e-05
+009900.KS,"Myoung Shin Industrial Co.,Ltd",Consumer Discretionary,8.135612631455418e-05
+005250.KS,GC Corp.,Health Care,8.028521814562085e-05
+016610.KS,"DB Securities Co., Ltd.",Financials,7.815892869212603e-05
+072710.KS,"Nongshim Holdings Co.,Ltd.",Consumer Staples,7.782993149455977e-05
+034310.KS,"NICE Holdings Co., Ltd.",Financials,7.73584222595922e-05
+357120.KS,Koramco Life Infra Reit,Real Estate,7.673932108853899e-05
+000070.KS,Samyang Holdings Corporation,Industrials,7.63733142252122e-05
+271940.KS,"Iljin Hysolus Co., Ltd.",Consumer Discretionary,7.627681283428431e-05
+403550.KS,SOCAR Inc.,Information Technology,7.537638354433872e-05
+130660.KS,"Korea Electric Power Industrial Development Co., Ltd",Utilities,7.471904519671189e-05
+003000.KS,"Bukwang Pharmaceutical Co., Ltd.",Health Care,7.44536125154032e-05
+014830.KS,UNID Company Ltd.,Materials,7.427494406707308e-05
+005420.KS,"Cosmo Chemical Co., Ltd.",Materials,7.424798316174162e-05
+002810.KS,"Samyung Trading Co., Ltd.",Industrials,7.317531065203122e-05
+092230.KS,"KPX Holdings Co., Ltd.",Industrials,7.153053787982702e-05
+344820.KS,KCC GLASS Corporation,Industrials,7.107891349634004e-05
+089590.KS,"Jeju Air Co., Ltd.",Industrials,7.047958179986642e-05
+092790.KS,"NEXTEEL Co., Ltd.",Industrials,7.028575197376835e-05
+317400.KS,Xi S&D Inc.,Real Estate,7.010453117942396e-05
+001200.KS,"Eugene Investment & Securities Co.,Ltd.",Financials,6.982017044671626e-05
+183190.KS,"Asia Cement Co.,Ltd.",Materials,6.935995360392061e-05
+002710.KS,TCC Steel Corp.,Materials,6.898812449073994e-05
+194370.KS,JS Corporation,Consumer Discretionary,6.846714441917045e-05
+126560.KS,"Hyundai Futurenet Co., Ltd.",Industrials,6.840227925286064e-05
+011930.KS,"Shinsung E&G Co.,Ltd.",Industrials,6.78875668403451e-05
+031430.KS,"Shinsegae International Co., Ltd.",Consumer Discretionary,6.774302638339195e-05
+008730.KS,"Youlchon Chemical Co.,Ltd.",Consumer Discretionary,6.773493583350044e-05
+006220.KS,Jeju Bank,Financials,6.747669255562597e-05
+950210.KS,Prestige BioPharma Limited,Health Care,6.734712598522234e-05
+012030.KS,DB Inc.,Information Technology,6.70208819220278e-05
+027410.KS,"BGF Co., Ltd.",Materials,6.683326931663411e-05
+0120G0.KS,Samyang Biopharm Corporation,Health Care,6.497548402081665e-05
+060980.KS,HL Holdings Corporation,Consumer Discretionary,6.489618279656294e-05
+014160.KS,"DAE YOUNG Packaging.Co., Ltd.",Consumer Discretionary,6.338798953802655e-05
+105630.KS,"Hansae Co., Ltd.",Consumer Discretionary,6.313394684640259e-05
+015360.KS,"INVENI Co., Ltd.",Utilities,6.261547104150717e-05
+170900.KS,"Dong-A ST Co., Ltd.",Health Care,6.242156627223265e-05
+005610.KS,"Samlip Co., Ltd.",Consumer Staples,6.184770199183091e-05
+015860.KS,"ILJIN Holdings Co.,Ltd.",Industrials,6.128831206502836e-05
+002030.KS,"ASIA Holdings CO., Ltd.",Materials,6.103202894616897e-05
+007690.KS,"Kukdo Chemical Co., Ltd.",Materials,6.068354024743249e-05
+217590.KS,"TMC Co., Ltd.",Industrials,6.066205743788662e-05
+029530.KS,"sindoh Co.,Ltd.",Industrials,6.0501888614295213e-05
+009290.KS,"Kwang Dong Pharmaceutical Co., Ltd.",Consumer Staples,5.9897933026703606e-05
+017810.KS,Pulmuone Corporate,Consumer Staples,5.969698302068393e-05
+001230.KS,"Dongkuk Holdings Co.,Ltd.",Materials,5.9111913373536835e-05
+024720.KS,"Kolmar Holdings Co.,Ltd.",Consumer Staples,5.9100000018656314e-05
+272450.KS,"Jin Air Co., Ltd.",Industrials,5.794495643393196e-05
+381970.KS,"KG Mobility Platform Co., Ltd.",Consumer Discretionary,5.791891886104626e-05
+010820.KS,"FIRSTEC Co., Ltd",Industrials,5.749468598516323e-05
+097520.KS,"MCNEX Co., Ltd",Information Technology,5.7324686058097196e-05
+001940.KS,KISCO Holdings Corp.,Materials,5.7204500644906286e-05
+145720.KS,"Dentium CO., LTD",Health Care,5.662753752497878e-05
+002020.KS,Kolon Corporation,Industrials,5.641800480203811e-05
+020120.KS,"KidariStudio, Inc.",Communication Services,5.633014145878635e-05
+001270.KS,"BOOKOOK Securities Co., Ltd.",Financials,5.630042512652479e-05
+126720.KS,"Soosan Industries Co., Ltd.",Industrials,5.627306882103955e-05
+108670.KS,"LX Hausys, Ltd.",Industrials,5.5776238303938136e-05
+011760.KS,Hyundai Corporation,Industrials,5.568945150015624e-05
+123890.KS,"Korea Asset In Trust Co., Ltd",Real Estate,5.535789915399679e-05
+002310.KS,"Asia Paper Manufacturing. Co., Ltd",Materials,5.529905948739987e-05
+096760.KS,JW Holdings Corporation,Health Care,5.526448605021848e-05
+200880.KS,"Seoyon E-Hwa Co., Ltd.",Consumer Discretionary,5.5138780056735405e-05
+104700.KS,KISCO Corp.,Materials,5.494782471179744e-05
+005950.KS,"ISU Chemical Co., Ltd",Materials,5.4886089158944695e-05
+005720.KS,Nexen Corporation,Consumer Discretionary,5.479086051429394e-05
+025860.KS,Namhae Chemical Corporation,Materials,5.454406047416585e-05
+026890.KS,"STIC Investments, Inc.",Financials,5.382963043388329e-05
+044450.KS,KSS Line Ltd.,Industrials,5.340045119760441e-05
+000430.KS,"Daewon Kang Up Co., Ltd.",Consumer Discretionary,5.318705442596168e-05
+084690.KS,"Daesang Holdings Co., Ltd.",Consumer Staples,5.3021451931121635e-05
+018250.KS,"Aekyung Industrial Co., Ltd.",Consumer Staples,5.291765317646233e-05
+033270.KS,Korea United Pharm Inc.,Health Care,5.269819258129422e-05
+001390.KS,KG Chemical Corporation,Industrials,5.2567064491983246e-05
+058430.KS,"POSCO STEELEON Co., Ltd.",Industrials,5.22340096687892e-05
+244920.KS,Aplus Asset Advisor Co. Ltd,Financials,5.211379058335355e-05
+005430.KS,"Korea Airport Service Co.,Ltd.",Industrials,5.172378366897378e-05
+016590.KS,"Shindaeyang Paper Co., Ltd.",Materials,5.141931352931952e-05
+003350.KS,"Hankook Cosmetics Manufacturing Co., Ltd",Consumer Staples,5.1137075111005965e-05
+105840.KS,Woojin Inc.,Information Technology,5.1134245872818445e-05
+009160.KS,"SIMPAC Co., Ltd.",Industrials,5.063944079623816e-05
+004430.KS,"Songwon Industrial Co., Ltd.",Materials,5.041263265559494e-05
+010580.KS,SMBEXEL Company,Consumer Discretionary,4.911651237062327e-05
+286940.KS,"LOTTE INNOVATE Co.,Ltd",Information Technology,4.907525281818855e-05
+037710.KS,"Gwangju Shinsegae. Co. ,Ltd.",Consumer Discretionary,4.8750458664995496e-05
+004310.KS,"Hyundai Pharmaceutical Co., Ltd.",Health Care,4.874898514293778e-05
+122900.KS,iMarketKorea Inc.,Industrials,4.8136475072578e-05
+010690.KS,"HWASHIN CO.,Ltd",Consumer Discretionary,4.794250401189292e-05
+002900.KS,TYM Corporation,Industrials,4.7887998046538546e-05
+034830.KS,KOREIT,Real Estate,4.662759989270649e-05
+078520.KS,"Able C&C Co., Ltd.",Consumer Staples,4.661075239126823e-05
+003960.KS,Sajodaerim Corporation,Consumer Staples,4.6319839373491856e-05
+298690.KS,"Air Busan Co., Ltd.",Industrials,4.613104956498525e-05
+001750.KS,Hanyang Securities Co. Ltd.,Financials,4.589906105817646e-05
+004360.KS,"Sebang Co., Ltd",Industrials,4.573051665509241e-05
+001790.KS,TS Corporation,Consumer Staples,4.532882612879103e-05
+025000.KS,"KPX Chemical Co.,Ltd.",Materials,4.475815507081532e-05
+005680.KS,"Samyoung Electronics Co., Ltd",Information Technology,4.460521694786984e-05
+005500.KS,"Samjin Pharmaceuticals Co., Ltd.",Health Care,4.455092167338117e-05
+136490.KS,"Sunjin Co.,Ltd.",Consumer Staples,4.450313376198054e-05
+007160.KS,Sajo Industries Company Limited,Consumer Staples,4.444143126754581e-05
+005010.KS,"Husteel Co., Ltd.",Materials,4.429875221671163e-05
+044820.KS,"Cosmax BTI, Inc.",Consumer Staples,4.4122136130930376e-05
+001250.KS,GS Global Corp.,Industrials,4.40564004100114e-05
+003920.KS,"Namyang Dairy Products Co., Ltd",Consumer Staples,4.387830719054356e-05
+348950.KS,JR Global REIT,Real Estate,4.3793521565170893e-05
+004700.KS,"Chokwang Leather Co.,Ltd.",Consumer Discretionary,4.368427626767291e-05
+900140.KS,LVMC Holdings,Consumer Discretionary,4.356852522368503e-05
+003200.KS,"Ilshin Spinning Co., Ltd",Consumer Discretionary,4.344071760815118e-05
+002320.KS,HANJIN Logistics Corporation,Industrials,4.3337162644072806e-05
+000680.KS,LS Networks Corporation Limited,Consumer Discretionary,4.326799276153165e-05
+003070.KS,Kolon Global Corporation,Industrials,4.286851549359323e-05
+053690.KS,"HanmiGlobal Co., Ltd.",Industrials,4.261407657680982e-05
+030210.KS,"Daol Investment & Securities Co., Ltd.",Financials,4.2558267151315685e-05
+025560.KS,Mirae Corporation,Information Technology,4.2373390832908465e-05
+011500.KS,Hannong Chemicals Inc.,Materials,4.223898233337174e-05
+404990.KS,"Shinhan Seobu T&D REIT Co., Ltd.",Real Estate,4.2171910371712605e-05
+084010.KS,"Daehan Steel Co., Ltd.",Materials,4.21637497010327e-05
+0030R0.KS,"Dashin Value REIT Co.,Ltd.",Real Estate,4.208092018754839e-05
+001340.KS,"Paikkwang Industrial Co.,Ltd",Materials,4.203858535333162e-05
+028100.KS,Dong-Ah Geological Engineering Company Ltd.,Industrials,4.194709204335965e-05
+017860.KS,"DS DANSUK CO., LTD.",Materials,4.155561409038631e-05
+008490.KS,"Suheung Co., Ltd.",Health Care,4.1515562143508634e-05
+009680.KS,Motonic Corporation,Consumer Discretionary,4.097395189213541e-05
+077500.KS,Uniquest Corporation,Information Technology,4.0870917169681884e-05
+001460.KS,"BYC Co., Ltd.",Consumer Discretionary,4.0824359639250564e-05
+000540.KS,"Heungkuk Fire&Marine Insurance Co., Ltd.",Financials,4.0820670695419144e-05
+034120.KS,Seoul Broadcasting System,Communication Services,4.063265662706555e-05
+017390.KS,"Seoul City Gas Co., Ltd.",Utilities,4.059621139094644e-05
+016800.KS,Fursys Inc.,Consumer Discretionary,4.0484359319586286e-05
+091810.KS,"Trinity Airways Co., Ltd.",Industrials,4.0058114152589774e-05
+475560.KS,The Born Korea,Consumer Discretionary,3.9914335144889526e-05
+092200.KS,DAE-IL Corporation,Consumer Discretionary,3.9775092810473226e-05
+088260.KS,E Kocref Cr-Reit,Real Estate,3.911856439878015e-05
+035150.KS,"BAIKSAN Co,. Ltd",Consumer Discretionary,3.8857522101014275e-05
+003720.KS,"Samyoung Co.,Ltd.",Consumer Discretionary,3.881231619641165e-05
+000050.KS,Kyungbangco.Ltd,Consumer Discretionary,3.829317378131009e-05
+298000.KS,Hyosung Chemical Corporation,Materials,3.812170806790495e-05
+000490.KS,Daedong Corporation,Industrials,3.810041399412532e-05
+033920.KS,"Muhak Co., Ltd.",Consumer Staples,3.809841186024877e-05
+000650.KS,"Chunil Express Co., Ltd.",Industrials,3.793164786255715e-05
+035510.KS,SHINSEGAE Information & Communication Inc.,Information Technology,3.780455809618177e-05
+487570.KS,HS HYOSUNG Corporation,Industrials,3.748842381060981e-05
+004980.KS,"Sungshin Cement Co., Ltd",Materials,3.734573500800222e-05
+100250.KS,Chinyang Holdings Corp.,Materials,3.706443524903141e-05
+134380.KS,"Miwon Chemicals Co., Ltd.",Materials,3.7048302192922793e-05
+037270.KS,"YG Plus, Inc.",Communication Services,3.674777259379246e-05
+013580.KS,"Kyeryong Construction Industrial Co., Ltd.",Industrials,3.6494647219299944e-05
+003650.KS,"Michang Oil Ind. Co., Ltd.",Energy,3.604064641592072e-05
+000390.KS,"SP Samhwa Co., Ltd.",Materials,3.594967741722612e-05
+117580.KS,"Daesung Energy Co., Ltd.",Utilities,3.588683744365416e-05
+095570.KS,"AJ Networks Co.,Ltd.",Industrials,3.586981644493309e-05
+334890.KS,"IGIS Value Plus REIT Co., Ltd.",Real Estate,3.575126952302076e-05
+339770.KS,"Kyochon Food&Beverage Co., Ltd.",Consumer Discretionary,3.571267579101385e-05
+005960.KS,Dongbu Corporation,Industrials,3.570877299332573e-05
+002420.KS,"Wooyang P&L Co.,Ltd.",Communication Services,3.557204868506357e-05
+053210.KS,"KT Skylife Co., Ltd.",Communication Services,3.551311750384544e-05
+004560.KS,"Hyundai Bng Steel Co., Ltd.",Materials,3.538141196688562e-05
+003520.KS,"Yungjin Pharm. Co., Ltd.",Health Care,3.515554163448716e-05
+016580.KS,"Whan In Pharm Co.,Ltd.",Health Care,3.462767844100519e-05
+102460.KS,"REYON Pharmaceutical Co., Ltd.",Health Care,3.442871767286911e-05
+226320.KS,"It'S Hanbul Co., Ltd.",Consumer Staples,3.442492224323864e-05
+033530.KS,"Sjg Sejong Co.,Ltd",Consumer Discretionary,3.402334673905769e-05
+102260.KS,"DONGSUNG CHEMICAL Co., Ltd.",Materials,3.40068572241888e-05
+001130.KS,"Daehan Flour Mills Co.,Ltd",Consumer Staples,3.391233414615487e-05
+432320.KS,"KB STAR REIT Co., Ltd.",Real Estate,3.3723442021178186e-05
+001630.KS,Chong Kun Dang Holdings Corp.,Health Care,3.3421621191514186e-05
+377190.KS,"D&D platform REIT Co., Ltd.",Real Estate,3.317134709853452e-05
+000480.KS,"CR Holdings Co., LTD.",Materials,3.314627641726723e-05
+000700.KS,"Eusu Holdings Co., Ltd.",Industrials,3.2605816706213024e-05
+119650.KS,"KC Cottrell Co., Ltd.",Industrials,3.259549376291314e-05
+003610.KS,"Pangrim Co., Ltd.",Consumer Discretionary,3.2517248716145966e-05
+009470.KS,"Samwha Electric Co.,Ltd.",Information Technology,3.246550135009843e-05
+039570.KS,"HDC Labs Co., Ltd.",Information Technology,3.243091335095703e-05
+213500.KS,"Hansol Paper Co., Ltd.",Materials,3.231404031954233e-05
+000520.KS,"Samil Pharmaceutical Co.,Ltd",Health Care,3.221301593972475e-05
+016450.KS,"Hansae Yes24 Holdings Co., Ltd",Consumer Discretionary,3.207452177187633e-05
+014710.KS,"SAJO SEAFOOD Co.,Ltd",Consumer Staples,3.199850172372393e-05
+234080.KS,JW Lifescience Corporation,Health Care,3.1973445259960365e-05
+007860.KS,"Seoyon Co., Ltd.",Consumer Discretionary,3.141651126144552e-05
+002150.KS,"Dohwa Engineering Co., Ltd.",Industrials,3.1375564407743785e-05
+000140.KS,"Hitejinro Holdings Co., Ltd.",Consumer Staples,3.124489996598328e-05
+003220.KS,"Daewon Pharmaceutical Co., Ltd.",Health Care,3.1020178096654074e-05
+015230.KS,"Daechang Forging Co., Ltd.",Consumer Discretionary,3.04333483801756e-05
+002100.KS,Kyung Nong Corporation,Materials,3.018110046818948e-05
+241590.KS,"Hwaseung Enterprise Co., Ltd.",Consumer Discretionary,3.0139752836310714e-05
+000320.KS,"NOROO Holdings Co., Ltd.",Materials,3.0094480497634425e-05
+460850.KS,"Dongkuk CM Co., Ltd.",Materials,2.9919931540032404e-05
+090350.KS,"NOROO Paint & Coatings Co., Ltd.",Materials,2.9508734932452802e-05
+000860.KS,"Kangnam Jevisco Co., Ltd",Materials,2.9454297698798785e-05
+128820.KS,"Daesung Industrial Co., Ltd.",Energy,2.9384108918309615e-05
+004380.KS,"Samick THK Co., Ltd.",Information Technology,2.910383454282621e-05
+003120.KS,"Ilsung Is Co., Ltd.",Health Care,2.9039488831617082e-05
+008970.KS,"Kbi Dong Yang Steel Pipe Co.,Ltd",Materials,2.888173278635856e-05
+400760.KS,"NH All-One REIT Co., Ltd.",Real Estate,2.887087509426881e-05
+001780.KS,"Aluko Co., Ltd.",Materials,2.8555170557243354e-05
+013890.KS,"Zinus, Inc",Consumer Discretionary,2.8398986816597592e-05
+462520.KS,"Chosun Refractories Co.,Ltd.",Materials,2.822580147040139e-05
+272550.KS,Samyang Packaging Corporation,Consumer Discretionary,2.79461706950686e-05
+271980.KS,"Jeil Pharmaceutical Co.,Ltd",Health Care,2.7603191479875768e-05
+101530.KS,"Haitai Confectionery&Foods Co.,ltd.",Consumer Staples,2.7526970128464765e-05
+004090.KS,Korea Petroleum Industries Company,Materials,2.7522156636216247e-05
+293480.KS,"Hana Pharm Co., Ltd.",Health Care,2.7413290952074292e-05
+004150.KS,"Hansol Holdings Co., Ltd.",Materials,2.7278224180613918e-05
+007570.KS,"Ilyang Pharmaceutical Co.,Ltd",Health Care,2.6985516461101272e-05
+004970.KS,"Silla Co.,Ltd",Consumer Staples,2.6756566727774623e-05
+000970.KS,"Korea Cast Iron Pipe Ind. Co., Ltd.",Materials,2.6609913252054277e-05
+107590.KS,"Miwon Holdings Co., Ltd.",Materials,2.646980545948017e-05
+000020.KS,"Dongwha Pharm.Co.,Ltd",Health Care,2.6327484155128397e-05
+016880.KS,"Woongjin Co., Ltd.",Industrials,2.6128483244976225e-05
+071840.KS,"LOTTE Himart Co.,Ltd.",Consumer Discretionary,2.6100894486120994e-05
+025820.KS,"Lee Ku Industrial Co., Ltd.",Industrials,2.608228242878474e-05
+015890.KS,"Taekyung Industry.Co., Ltd.",Materials,2.5869616421628018e-05
+002170.KS,SYTS Corp.,Consumer Discretionary,2.5781921501545744e-05
+008350.KS,"Namsun Aluminum Co., Ltd.",Industrials,2.563537131015196e-05
+003460.KS,"Yuhwa Securities co.,ltd.",Financials,2.5595428962319948e-05
+014280.KS,"Kumkang Kind Co., Ltd.",Materials,2.5578780980663896e-05
+001520.KS,Tongyang Inc.,Materials,2.5218752792957332e-05
+004080.KS,"Shinhung Co., Ltd",Health Care,2.513072049023548e-05
+012610.KS,"Kyungin Synthetic Co., Ltd.",Materials,2.4855584424588068e-05
+081000.KS,"Iljin Diamond Co.,Ltd",Industrials,2.478632537385818e-05
+018470.KS,"Choil Aluminum Co., Ltd.",Materials,2.4626364926611473e-05
+094280.KS,Hyosung ITX Co. Ltd,Information Technology,2.46160996186212e-05
+214390.KS,"Kyongbo Pharmaceutical Co., Ltd",Health Care,2.3964139823605344e-05
+267290.KS,"Kyungdong City Gas Co., Ltd",Utilities,2.3441245791460682e-05
+092220.KS,Kec Corporation,Information Technology,2.3355169393577977e-05
+011690.KS,"Y2 Solution Co., Ltd",Information Technology,2.3284459643131295e-05
+004960.KS,"HANSHIN Engineering & Construction Co., Ltd.",Industrials,2.3240289617139286e-05
+210540.KS,DY Power Corporation,Industrials,2.3069037333355854e-05
+003480.KS,"Hanjin Heavy Industries & Construction Holdings Co., Ltd.",Industrials,2.291974203370345e-05
+001360.KS,"SAMSUNG PHARM. Co., LTD.",Health Care,2.2915076423391304e-05
+015590.KS,"DKME Co., Ltd.",Industrials,2.285161393339704e-05
+005800.KS,"Shinyoungwacoal,Inc.",Consumer Discretionary,2.2807323755044624e-05
+350520.KS,"IGIS RESIDENCE REIT Co., Ltd.",Real Estate,2.2594858898159115e-05
+009070.KS,KCTC Co. Ltd,Industrials,2.2582066236476283e-05
+002210.KS,"Dong Sung Bio Pharm.Co.,Ltd.",Health Care,2.2517820796023554e-05
+037560.KS,LG HelloVision Corp.,Communication Services,2.2504680333728613e-05
+214420.KS,"Tonymoly Co., Ltd",Consumer Staples,2.2367079566294598e-05
+003830.KS,"Daehan Synthetic Fiber Co., Ltd.",Consumer Discretionary,2.1882915516921237e-05
+013520.KS,"Hwaseung Corporation Co.,Ltd.",Consumer Discretionary,2.1879924729672852e-05
+014530.KS,"Kukdong Oil & Chemicals Co.,Ltd",Materials,2.1829239785080206e-05
+001210.KS,"Kumho Electric, Inc.",Industrials,2.1532121420110965e-05
+227840.KS,"HYUNDAI CORPORATION HOLDINGS Co., Ltd.",Consumer Staples,2.14943875908483e-05
+017550.KS,"Soosan Cebotics Co., Ltd.",Industrials,2.1493772744819924e-05
+002620.KS,Jeil Pharma Holdings Inc,Health Care,2.1352880305222812e-05
+016740.KS,"DUAL Co., Ltd.",Consumer Discretionary,2.1268456580456626e-05
+001080.KS,Manho Rope & Wire Ltd.,Materials,2.1175381500926397e-05
+004100.KS,"Taeyang Metal Industrial Co., Ltd.",Consumer Discretionary,2.0819548862712246e-05
+079430.KS,Hyundai Livart Furniture Company Limited,Consumer Discretionary,2.0766511473135913e-05
+016710.KS,"Daesung Holdings Co., Ltd.",Utilities,2.0747259118487412e-05
+002390.KS,HANDOK Inc.,Health Care,2.055733134954336e-05
+011810.KS,STX Corporation,Industrials,2.052838902839564e-05
+013570.KS,DY Corporation,Consumer Discretionary,2.045399850627259e-05
+034590.KS,"Incheon City Gas Co., Ltd.",Utilities,2.0427247858186116e-05
+008040.KS,"Sajodongaone Co.,Ltd",Consumer Staples,2.0372396282098157e-05
+083420.KS,"Green Chemical Co., Ltd.",Materials,2.03609157135495e-05
+009580.KS,"Moorim P&P Co., Ltd.",Materials,2.013533749585197e-05
+023450.KS,"Dongnam Chemical Co., Ltd.",Materials,1.998119714349556e-05
+012200.KS,"Keyang Electric Machinery Co., Ltd.",Industrials,1.994814640302676e-05
+002460.KS,"HS Hwasung Co., Ltd.",Industrials,1.9837331177007415e-05
+006060.KS,"HWASEUNG Industries Co.,Ltd.",Consumer Discretionary,1.9834236455001382e-05
+021820.KS,"SEWON Precision Industry Co., Ltd.",Consumer Discretionary,1.9747575794491313e-05
+010100.KS,"Korea Movenex Co., Ltd.",Consumer Discretionary,1.9491520354668832e-05
+014580.KS,"Taekyung Bk Co., Ltd",Materials,1.9442453316571866e-05
+027970.KS,"Hankuk Paper Mfg. Co., Ltd",Materials,1.9310489769650274e-05
+006660.KS,"Samsung Climate Control Co., Ltd.",Consumer Discretionary,1.9052592875893538e-05
+267850.KS,"Asiana IDT, Inc.",Information Technology,1.9023560586892903e-05
+123690.KS,"Hankook Cosmetics Co., Ltd.",Consumer Staples,1.891046914303415e-05
+012800.KS,"Daechang Co., Ltd.",Industrials,1.8848664351651653e-05
+248170.KS,Sempio Foods Company,Consumer Staples,1.8773046519570122e-05
+003580.KS,"HLB GLOBAL Co., Ltd.",Industrials,1.863799183505276e-05
+035000.KS,HS Ad Inc.,Communication Services,1.8284892460306042e-05
+089470.KS,"HDC Hyundai Engineering Plastics Co., Ltd.",Consumer Discretionary,1.823178040912518e-05
+024090.KS,DCM Corp.,Materials,1.8131469451780387e-05
+070960.KS,"Mona Yongpyong Co.,Ltd",Consumer Discretionary,1.8025876357673988e-05
+003010.KS,Haein Corporation,Industrials,1.8023982000134353e-05
+417310.KS,Koramco The One REIT,Real Estate,1.7935379057609e-05
+011280.KS,"Tailim Packaging Co., Ltd.",Consumer Discretionary,1.787127533736093e-05
+009270.KS,ShinWon Corporation,Consumer Discretionary,1.7843274190180728e-05
+008260.KS,"N.I Steel Co., Ltd.",Materials,1.78312377162983e-05
+002780.KS,"ChinHung International, Inc.",Industrials,1.7769863607905568e-05
+012320.KS,"Kyungdong Invest Co., Ltd",Utilities,1.7742457105659466e-05
+014790.KS,HL D&I Halla Corporation,Industrials,1.7695464124287572e-05
+210980.KS,SK D&D Co. Ltd.,Real Estate,1.76856726041904e-05
+013700.KS,CAMUS ENGINEERING & CONSTRUCTION Inc.,Industrials,1.7609281838476822e-05
+004250.KS,"NPC Co., Ltd.",Consumer Discretionary,1.757623641033117e-05
+032560.KS,"Hwang Kum Steel & Technology Co., Ltd",Materials,1.7571623609391677e-05
+008700.KS,"Anam Electronics Co.,Ltd.",Information Technology,1.7568278822256558e-05
+002200.KS,"Korea Export Packaging Industrial Co.,Ltd",Consumer Discretionary,1.751327193786727e-05
+007540.KS,Sempio Company,Consumer Staples,1.7478973836705115e-05
+025620.KS,"Cha AI Healthcare Co., Ltd.",Consumer Staples,1.724667282526023e-05
+264900.KS,"Crown Confectionery Co., Ltd.",Consumer Staples,1.7187750813900256e-05
+014440.KS,"Youngbo Chemical Co., Ltd.",Materials,1.7094229940355052e-05
+139990.KS,"AJUSTEEL Co.,Ltd",Materials,1.681179599663823e-05
+019180.KS,THN Corporation,Consumer Discretionary,1.6742265067592018e-05
+006840.KS,"AK Holdings, Inc.",Industrials,1.6725507944913934e-05
+023000.KS,"SAMWONSTEEL Co.,Ltd.",Consumer Discretionary,1.6523390322178195e-05
+001290.KS,"Sangsangin Investment & Securities Co.,Ltd.",Financials,1.631687020830803e-05
+036580.KS,Farmsco,Consumer Staples,1.630239594105756e-05
+067830.KS,Savezone I&C Corporation,Consumer Discretionary,1.6162988233834e-05
+004140.KS,"Dongbang Transport Logistics Co., Ltd.",Industrials,1.6050519488856148e-05
+006090.KS,Oyang Corporation,Consumer Staples,1.5901378120055343e-05
+058850.KS,ktcs corporation,Industrials,1.5667637245657454e-05
+002450.KS,"SAMICK MUSICAL INSTRUMENT Co., Ltd",Information Technology,1.552805862429168e-05
+000850.KS,"Hwacheon Machine Tool Co., Ltd.",Industrials,1.5445157189835982e-05
+002600.KS,Choheung Corporation,Consumer Staples,1.5430140021931424e-05
+363280.KS,"TY Holdings Co., Ltd",Communication Services,1.5207040033954527e-05
+007980.KS,TP Inc.,Consumer Discretionary,1.520682908648297e-05
+007210.KS,Byucksan Corporation,Industrials,1.5016813811938392e-05
+011700.KS,"Hanshin Machinery Co., Ltd.",Industrials,1.4936738104468632e-05
+023800.KS,"INZI Controls Co.,Ltd.",Consumer Discretionary,1.489743770302162e-05
+071090.KS,"Histeel Co.,Ltd.",Materials,1.485188893958142e-05
+001260.KS,"Namkwang Engineering & Construction Co., Ltd.",Industrials,1.4752436258433872e-05
+058860.KS,KTIS Corporation,Communication Services,1.474920280689217e-05
+009180.KS,"Hansol Logistics Co., Ltd.",Industrials,1.4742369473649013e-05
+069730.KS,DSR Wire Corp,Industrials,1.4704810812141367e-05
+111380.KS,"Dong In Entech Co., Ltd",Consumer Discretionary,1.437027866379184e-05
+120030.KS,"CHOSUN WELDING POHANG Co., Ltd",Industrials,1.4330638100966038e-05
+163560.KS,"DRB Industrial Co., Ltd.",Consumer Discretionary,1.4324688749557288e-05
+004840.KS,"DRB Holding Co., Ltd.",Consumer Discretionary,1.4253754060706861e-05
+084680.KS,"E-World Co.,Ltd.",Consumer Discretionary,1.4160836685842532e-05
+005740.KS,"CROWNHAITAI Holdings Co.,Ltd.",Consumer Staples,1.3931222544201984e-05
+004890.KS,"Dongil Industries Co.,Ltd.",Materials,1.3909051009793096e-05
+013360.KS,"Ilsung Construction Co., Ltd.",Industrials,1.3781970539044647e-05
+007610.KS,"Seondo Electric Co., Ltd.",Information Technology,1.3696930153049922e-05
+055490.KS,"Tapex Co., Ltd.",Materials,1.36395956008777e-05
+013870.KS,GMB Korea Corp.,Consumer Discretionary,1.3622453203371293e-05
+109070.KS,Joosung Corporation,Information Technology,1.3499034430618828e-05
+338100.KS,"NH Prime REIT Co., Ltd.",Real Estate,1.341554940461546e-05
+000590.KS,"CS Holdings Co., Ltd.",Industrials,1.339408016683509e-05
+024900.KS,"DY DEOKYANG Co.,Ltd.",Consumer Discretionary,1.333081507225692e-05
+001020.KS,PaperCorea Inc.,Materials,1.3271684977574738e-05
+007590.KS,DONGBANG AGRO Corporation,Materials,1.3239934030991888e-05
+004770.KS,Sunny Electronics Corp.,Information Technology,1.315723208121577e-05
+214330.KS,"Kumho HT, Inc.",Consumer Discretionary,1.3154595490391294e-05
+063160.KS,CKD Bio Corp.,Health Care,1.3140179003571481e-05
+009770.KS,"Sam Jung Pulp Co.,Ltd.",Materials,1.3022549228908882e-05
+078000.KS,"Telcoware Co.,Ltd.",Communication Services,1.3018488031072277e-05
+005750.KS,"Daelim Bath Co.,Ltd.",Industrials,1.3018079284410518e-05
+010960.KS,"Samho Development Co., LTD",Industrials,1.2972902492465025e-05
+010040.KS,"Korea Refractories Co., Ltd",Industrials,1.2950930273417152e-05
+004440.KS,"SAMIL C&S Co., Ltd.",Materials,1.2905850544936408e-05
+011150.KS,CJ Seafood Corporation,Consumer Staples,1.2835303494241101e-05
+000180.KS,Sungchang Enterprise Holdings Limited,Materials,1.2830484522603448e-05
+155660.KS,DSR Corp,Consumer Discretionary,1.2824661390490936e-05
+002720.KS,"Kukje Pharma Co., Ltd.",Health Care,1.2789870186542045e-05
+031820.KS,"Itcencts Co.,Ltd.",Information Technology,1.278912419183207e-05
+000230.KS,"Ildong Holdings Co., Ltd.",Health Care,1.2694527118580424e-05
+002220.KS,"Hanil Iron & Steel Co., Ltd",Materials,1.250137709996335e-05
+010660.KS,"Hwacheon Machinery Co., Ltd.",Industrials,1.2409812127127574e-05
+002700.KS,"Shinil Electronics Co.,Ltd.",Consumer Discretionary,1.2379432317241096e-05
+095720.KS,"Woongjin Thinkbig Co., Ltd.",Communication Services,1.229606987581619e-05
+004720.KS,"PharmGen Science, Inc.",Health Care,1.224592464448374e-05
+007280.KS,"Korea Steel Co., Ltd.",Materials,1.2045317229808336e-05
+079980.KS,Huvis Corporation,Consumer Discretionary,1.191069720970739e-05
+009200.KS,"Moorim Paper Co., Ltd.",Materials,1.1723823074859407e-05
+018500.KS,"Dongwon Metal Co., Ltd.",Consumer Discretionary,1.1679102163772855e-05
+085310.KS,"NK Co., Ltd.",Industrials,1.1641228347286698e-05
+016090.KS,"Daehyun Co.,Ltd.",Consumer Discretionary,1.1637410478253092e-05
+084670.KS,Dongyang Express Corp.,Industrials,1.148457625533805e-05
+100220.KS,Visang Education Inc,Communication Services,1.1441446409436695e-05
+068290.KS,"Samsung Publishing Co., Ltd",Communication Services,1.1425615546613531e-05
+001560.KS,"Cheil Grinding Wheel Ind. Co., Ltd.",Industrials,1.1305074170228903e-05
+072130.KS,UANGEL Corporation,Communication Services,1.1196232689068745e-05
+372910.KS,Hancom Lifecare Inc.,Information Technology,1.1117064641752888e-05
+005870.KS,Huneed Technologies,Information Technology,1.1038889768914995e-05
+002760.KS,Bolak Company Limited,Materials,1.0998198344099298e-05
+000220.KS,"Yuyu Pharma, Inc.",Health Care,1.0937305492763551e-05
+003780.KS,"Chin Yang Industry Co., Ltd.",Consumer Discretionary,1.0737275051757634e-05
+090080.KS,"Pyung Hwa Industrial Co., Ltd.",Consumer Discretionary,1.0697581831608007e-05
+058730.KS,"Development Advance Solution Co.,Ltd.",Materials,1.0584189690173715e-05
+014990.KS,"In the F CO.,LTD.",Consumer Discretionary,1.0530774745531939e-05
+006890.KS,"Taekyung Chemical Co., Ltd.",Utilities,1.046283630830187e-05
+075180.KS,Saeron Automotive Corporation,Consumer Discretionary,1.04339282600856e-05
+111110.KS,Hojeon Limited,Consumer Discretionary,1.0245748759794661e-05
+129260.KS,"Intergis Co., Ltd",Industrials,1.0241258719697639e-05
+004450.KS,"Samhwa Crown & Closure Co., Ltd",Consumer Discretionary,1.023280358375459e-05
+092440.KS,Kishin Corporation,Industrials,1.019515529040316e-05
+001550.KS,Chobi Company Limited,Materials,1.004793949307634e-05
+378850.KS,"Hwaseung R&A Co., Ltd.",Consumer Discretionary,1.0035046486677568e-05
+396690.KS,"Mirae Asset Global REIT Co., Ltd.",Real Estate,9.999554669900107e-06
+002410.KS,"Bumyang Construction Co.,Ltd.",Industrials,9.980695800716478e-06
+017370.KS,"Wooshin Systems Co., Ltd.",Consumer Discretionary,9.787835039971861e-06
+012690.KS,"Monalisa Co., Ltd",Consumer Staples,9.676817607786682e-06
+011300.KS,"Woosung Materials Co., Ltd.",Consumer Discretionary,9.5881664864324e-06
+011230.KS,"Samwha Electronics Co.,Ltd.",Information Technology,9.569875727973477e-06
+020760.KS,"Iljin Display Co., Ltd.",Information Technology,9.559883314586373e-06
+123700.KS,"SJM Co., Ltd.",Consumer Discretionary,9.549410966028492e-06
+021050.KS,"Seowon Co., Ltd.",Industrials,9.499844073989236e-06
+010770.KS,"Pyung Hwa Holdings Co., Ltd.",Industrials,9.494078415394016e-06
+023810.KS,INFAC Corporation,Consumer Discretionary,9.423272860108973e-06
+002630.KS,ORIENT BIO Inc.,Health Care,9.137631899195681e-06
+025530.KS,"SJM Holdings Co.,Ltd.",Consumer Discretionary,9.132624527425507e-06
+011000.KS,"GeneOne Life Science, Inc.",Health Care,9.110065658959151e-06
+001620.KS,"Kbi Dongkook Ind.Co.,Ltd.",Consumer Discretionary,9.087166858125816e-06
+011390.KS,"Busan Industrial Co., Ltd.",Materials,9.049045035927435e-06
+002140.KS,"Korea Industrial Co., Ltd.",Consumer Staples,9.033298559263593e-06
+004410.KS,"Seoul Food Industrial.Co.,Ltd",Consumer Staples,8.876406911199957e-06
+009320.KS,"Ajin Electronic Components Co.,Ltd",Consumer Discretionary,8.847097938764691e-06
+007110.KS,"Ilshinstone.Co.,Ltd.",Industrials,8.764336995546177e-06
+004540.KS,"KleanNara Co., Ltd.",Materials,8.716966603085934e-06
+069460.KS,"Daeho Al Co.,Ltd.",Materials,8.683270172827603e-06
+357250.KS,"Miraeasset Maps REIT 1 Co., Ltd.",Real Estate,8.675408352236156e-06
+101140.KS,"INBIOGEN Co., Ltd.",Consumer Discretionary,8.631093800081662e-06
+000910.KS,Union Corporation,Materials,8.557144088150992e-06
+006880.KS,"Singsong Holdings Co.,Ltd.",Industrials,8.547122144629493e-06
+002920.KS,"Yoosung Enterprise Co., Ltd.",Consumer Discretionary,8.482990724652078e-06
+004830.KS,"Duksung Co., Ltd.",Consumer Discretionary,8.441742956939874e-06
+074610.KS,"ENPLUS Co., Ltd.",Industrials,8.399918897900748e-06
+006980.KS,"Woosung Co., Ltd.",Consumer Staples,8.354961476744002e-06
+004920.KS,"CITECH Co., Ltd.",Information Technology,8.292672008144526e-06
+003080.KS,"SBSUNGBO Co., Ltd.",Materials,8.254769595216389e-06
+008420.KS,"Moonbaesteel Co.,Ltd",Materials,8.063251115867731e-06
+007460.KS,Aprogen Medicines Inc.,Industrials,8.021068861520593e-06
+005320.KS,ONTIDE Corp.,Consumer Discretionary,8.017304518553976e-06
+014910.KS,"Sungmoon Electronics Co., Ltd.",Information Technology,8.017117851027202e-06
+084870.KS,"TBH Global Co., Ltd",Consumer Discretionary,8.013279609703613e-06
+481850.KS,"Shinhan Global Active REIT Co., Ltd.",Real Estate,7.965518840707682e-06
+092780.KS,"DYP Co.,Ltd",Consumer Discretionary,7.94844184221664e-06
+041650.KS,"Sangsin Brake Co., Ltd.",Consumer Discretionary,7.922583957253507e-06
+017180.KS,"MYUNGMOON Pharm co.,Ltd",Health Care,7.852224682727395e-06
+026940.KS,"Bookook Steel Co., Ltd.",Materials,7.784225946312182e-06
+019490.KS,Exicure Hitron Inc.,Industrials,7.760519395669302e-06
+004060.KS,SG Corporation,Consumer Discretionary,7.615295778464705e-06
+008870.KS,Kumbi Corporation,Consumer Discretionary,7.546126872039456e-06
+011420.KS,"Galaxia SM, Inc.",Communication Services,7.441745863486719e-06
+017040.KS,"Kwang Myung Electric Co.,Ltd",Industrials,7.382058369637982e-06
+023350.KS,Korea Engineering Consultants Corp.,Industrials,7.3431549057273155e-06
+047400.KS,Union Materials Corp.,Industrials,7.261176111050505e-06
+023960.KS,"SC Engineering Co., Ltd",Industrials,7.1256275971031915e-06
+051630.KS,ChinYang Chemical Corporation,Materials,7.107475397547372e-06
+049800.KS,"Woojin Plaimm Co., Ltd.",Industrials,7.0730860830459385e-06
+145270.KS,"K-TOP Reits Co.,Ltd.",Real Estate,7.0566944821766545e-06
+010640.KS,"Chinyang Poly Urethane Co.,Ltd",Materials,6.880960191167024e-06
+002360.KS,"SH Energy & Chemical Co., Ltd.",Materials,6.88045565186835e-06
+133820.KS,"Fine besteel. Co., Ltd.",Materials,6.841529043498508e-06
+027740.KS,"Maniker.Co.,Ltd",Consumer Staples,6.739373952593563e-06
+000890.KS,"BOHAE BREWERY Co., Ltd.",Consumer Staples,6.668943497254727e-06
+011330.KS,"Uni-Chem Co., Ltd.",Consumer Discretionary,6.661786710170646e-06
+009190.KS,"Daiyang Metal Co., Ltd.",Materials,6.604792521170409e-06
+013000.KS,"Sewoo Global Co., Ltd",Materials,6.4709502441372455e-06
+004910.KS,Chokwang Paint Ltd.,Materials,6.464757068171247e-06
+008250.KS,"Eagon Industrial Co., Ltd.",Materials,6.424904640324928e-06
+000950.KS,"Chonbang Co., Ltd.",Consumer Discretionary,6.309907040125438e-06
+000760.KS,"Rifa Co.,Ltd.",Materials,6.301954511146981e-06
+143210.KS,Hands Corporation Ltd,Consumer Discretionary,6.215919552951391e-06
+002880.KS,"DYA Co.,Ltd",Consumer Discretionary,6.144553473614867e-06
+012280.KS,"Yeong Hwa Metal Co., Ltd.",Consumer Discretionary,6.058612174867493e-06
+090370.KS,"Metalabs Co., Ltd.",Consumer Discretionary,6.047398914723259e-06
+009460.KS,"Hanchangpaper co., Ltd",Materials,6.030613058571532e-06
+088790.KS,"Jindo.Co., Ltd.",Consumer Discretionary,5.981755573789798e-06
+134790.KS,Sidiz.Inc.,Consumer Discretionary,5.83685445514653e-06
+014130.KS,"Hanexpress.Co., Ltd",Industrials,5.814459698045328e-06
+024070.KS,"Wiscom Co.,Ltd.",Materials,5.73385334749707e-06
+025750.KS,"HansolHomeDeco.Co., Ltd.",Consumer Discretionary,5.716484676372969e-06
+002870.KS,"Shinpoong Paper Mfg. Co., Ltd",Consumer Discretionary,5.622164258586479e-06
+005820.KS,Wonlim Corporation,Consumer Discretionary,5.61771161574269e-06
+009810.KS,"MDSsphere Co., Ltd.",Industrials,5.55858309392113e-06
+036420.KS,ContentreeJoongAng corp.,Communication Services,5.551444183086008e-06
+025890.KS,"Hankook Steel Co., Ltd.",Materials,5.48105865779954e-06
+308170.KS,"CTR Mobility Co.,Ltd.",Consumer Discretionary,5.430508257645589e-06
+002690.KS,"Dong Il Steel Mfg Co.,Ltd",Materials,5.407346310979062e-06
+012160.KS,"Youngwire Co., Ltd.",Materials,5.390410542194436e-06
+069640.KS,"Hansaemk Co.,Ltd.",Consumer Discretionary,5.357182355303097e-06
+006570.KS,"Daelim Trading Co., Ltd.",Consumer Staples,5.288025864133701e-06
+010400.KS,"Woojin I&S Co., Ltd.",Industrials,5.285239965492763e-06
+007120.KS,"MiraeING.Co.,Ltd.",Industrials,5.21101054078927e-06
+118000.KS,"METACARE CO., Ltd.",Health Care,4.9999418191164005e-06
+033250.KS,"CHASYS Co., Ltd.",Consumer Discretionary,4.948305119084303e-06
+003680.KS,"Hansung Enterprise Co.,Ltd",Consumer Staples,4.850517381018032e-06
+009140.KS,"KIE Co., Ltd.",Information Technology,4.84236297155857e-06
+005110.KS,Hanchang Corporation,Industrials,4.821677534208374e-06
+006370.KS,"Daegu Department Store Co., Ltd.",Consumer Discretionary,4.772361364111589e-06
+357430.KS,"MASTERN PREMIER REIT 1 Co., Ltd.",Real Estate,4.729916750080001e-06
+003060.KS,Aprogen Biologics Inc.,Health Care,4.487123839977196e-06
+001380.KS,"SG Global Co.,Ltd.",Consumer Discretionary,4.384537164676976e-06
+004270.KS,Namsung Corp.,Information Technology,4.35542385749235e-06
+009310.KS,"Charm Engineering Co.,Ltd.",Information Technology,4.35390463162269e-06
+004870.KS,Tway Holdings Incorporation,Materials,4.248468865814418e-06
+030720.KS,"Dong Won Fisheries Co., Ltd.",Consumer Staples,4.13643510080122e-06
+006740.KS,"Blue Industrial Development Co., Ltd.",Materials,4.065857109108591e-06
+001420.KS,"Tae Won Mulsan Co., Ltd.",Consumer Discretionary,4.056177840464359e-06
+005360.KS,"Monami Co., Ltd.",Consumer Discretionary,4.0049021538995465e-06
+001070.KS,"Taihan Textile Co., Ltd.",Consumer Discretionary,3.932888713738135e-06
+023150.KS,"MH Ethanol Co.,Ltd.",Consumer Staples,3.908425060186182e-06
+071950.KS,"KOAS Co., Ltd.",Consumer Discretionary,3.762679790493796e-06
+015020.KS,E-Starco. Co. Ltd,Industrials,3.474485616324809e-06
+093240.KS,"hyungji Elite Co., Ltd.",Consumer Discretionary,3.3941486471132854e-06
+000040.KS,"KR Motors Co., Ltd.",Consumer Discretionary,3.3363686487612384e-06
+009440.KS,"KC Green Holdings Co., Ltd.",Industrials,3.2539256848750882e-06
+008600.KS,"The Willbes & CO., Ltd.",Consumer Discretionary,3.236094597045143e-06
+011090.KS,"ENEX Co., LTD.",Consumer Discretionary,3.1716825418653646e-06
+006200.KS,"KEC Holdings Co., Ltd.",Information Technology,3.1533480083619986e-06
+465770.KS,STX Green Logis Ltd,Industrials,3.064513686945013e-06
+024890.KS,"DAEWON Chemical Co., Ltd.",Materials,2.5317587647731827e-06
+002820.KS,"SUN&L Co., Ltd.",Materials,2.4365369011245823e-06
+002070.KS,Vivien Corporation,Consumer Discretionary,2.2834567525627874e-06
+012170.KS,"Ascendio Co., Ltd.",Communication Services,2.2192293315852507e-06
+015260.KS,Automobile & PCB Inc.,Information Technology,2.2109559495516377e-06
+044380.KS,"JOOYONTECH CO., Ltd",Information Technology,1.0552338831744793e-06
+001770.KS,"Shin Hwa Dynamics Co.,Ltd.",Consumer Discretionary,9.7491518797915e-07

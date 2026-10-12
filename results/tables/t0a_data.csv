@@ -1,0 +1,4 @@
+index,members_in_source,members_used,left_out,weight_left_out,trading_at_start,weight_today_of_those,returns_corrected,beyond_price_limit
+SMI,20,20,0,0.0,16,0.9265817915124467,1,0
+FTSE100,103,102,1,1.895514606838158e-06,91,0.964864094570213,5,0
+KOSPI,825,820,5,0.1409288173357994,685,0.8795890114223983,337,330

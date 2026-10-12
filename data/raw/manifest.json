@@ -1,0 +1,125 @@
+{
+  "members_SMI": {
+    "source": "iShares SMI ETF (CH), holdings file",
+    "url": "https://www.ishares.com/ch/individual/en/products/261154/ishares-smi-ch/1495092304805.ajax?fileType=csv&fileName=CSSMI_holdings&dataType=fund&asOfDate=20260930",
+    "holdings_as_of": "30/Sept/2026",
+    "members": 20,
+    "downloaded_at_utc": "2026-10-12 00:11"
+  },
+  "holdings_history_SMI": {
+    "source": "iShares SMI ETF (CH), holdings of past days",
+    "url": "https://www.ishares.com/ch/individual/en/products/{product}/{slug}/1495092304805.ajax?...&asOfDate=<day>",
+    "days": 12,
+    "downloaded_at_utc": "2026-10-12 00:11"
+  },
+  "prices_SMI": {
+    "source": "Yahoo Finance, daily close and dividends",
+    "url": "https://finance.yahoo.com/quote/<ticker>",
+    "tickers": 20,
+    "with_prices": 20,
+    "without_prices": [],
+    "first_day": "2006-06-01",
+    "last_day": "2026-09-30",
+    "downloaded_at_utc": "2026-10-12 00:04"
+  },
+  "index_SMI": {
+    "source": "Yahoo Finance, close of the index (no dividends)",
+    "url": "https://finance.yahoo.com/quote/^SSMI",
+    "last_day": "2026-09-30",
+    "downloaded_at_utc": "2026-10-11 23:53"
+  },
+  "risk_free_SMI": {
+    "source": "FRED IR3TIB01CHM156N: 3-month interbank rate, % per year, monthly (OECD)",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IR3TIB01CHM156N",
+    "last_month": "2026-08-01",
+    "downloaded_at_utc": "2026-10-11 23:53"
+  },
+  "members_FTSE100": {
+    "source": "iShares Core FTSE 100 UCITS ETF, holdings file",
+    "url": "https://www.ishares.com/ch/individual/en/products/251795/ishares-ftse-100-ucits-etf-inc-fund/1495092304805.ajax?fileType=csv&fileName=ISF_holdings&dataType=fund&asOfDate=20260930",
+    "holdings_as_of": "30/Sept/2026",
+    "members": 103,
+    "downloaded_at_utc": "2026-10-12 00:11"
+  },
+  "holdings_history_FTSE100": {
+    "source": "iShares Core FTSE 100 UCITS ETF, holdings of past days",
+    "url": "https://www.ishares.com/ch/individual/en/products/{product}/{slug}/1495092304805.ajax?...&asOfDate=<day>",
+    "days": 12,
+    "downloaded_at_utc": "2026-10-12 00:12"
+  },
+  "prices_FTSE100": {
+    "source": "Yahoo Finance, daily close and dividends",
+    "url": "https://finance.yahoo.com/quote/<ticker>",
+    "tickers": 103,
+    "with_prices": 102,
+    "without_prices": [
+      "EVR.L"
+    ],
+    "first_day": "2006-06-01",
+    "last_day": "2026-09-30",
+    "downloaded_at_utc": "2026-10-12 00:05"
+  },
+  "index_FTSE100": {
+    "source": "Yahoo Finance, close of the index (no dividends)",
+    "url": "https://finance.yahoo.com/quote/^FTSE",
+    "last_day": "2026-09-30",
+    "downloaded_at_utc": "2026-10-11 23:53"
+  },
+  "risk_free_FTSE100": {
+    "source": "FRED IR3TIB01GBM156N: 3-month interbank rate, % per year, monthly (OECD)",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IR3TIB01GBM156N",
+    "last_month": "2026-01-01",
+    "downloaded_at_utc": "2026-10-11 23:53"
+  },
+  "krx_companies": {
+    "source": "Korea Exchange (KIND), companies listed on the KOSPI market",
+    "url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+    "companies": 830,
+    "downloaded_at_utc": "2026-10-11 23:54"
+  },
+  "prices_KOSPI": {
+    "source": "Yahoo Finance, daily close and dividends",
+    "url": "https://finance.yahoo.com/quote/<ticker>",
+    "tickers": 830,
+    "with_prices": 830,
+    "without_prices": [],
+    "first_day": "2006-06-01",
+    "last_day": "2026-09-30",
+    "downloaded_at_utc": "2026-10-12 00:05"
+  },
+  "krx_profiles": {
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/<ticker>",
+    "field": "sharesOutstanding (ordinary shares), longName, sector",
+    "companies": 830,
+    "without_share_count": 4,
+    "downloaded_at_utc": "2026-10-11 23:55"
+  },
+  "members_KOSPI": {
+    "source": "Korea Exchange company list and Yahoo Finance share counts",
+    "url": "https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt",
+    "weights_as_of": "2026-09-30",
+    "members": 825,
+    "companies_in_the_list": 830,
+    "left_out": [
+      "0220W0",
+      "094800",
+      "415640",
+      "446070",
+      "480370"
+    ],
+    "downloaded_at_utc": "2026-10-12 00:06"
+  },
+  "index_KOSPI": {
+    "source": "Yahoo Finance, close of the index (no dividends)",
+    "url": "https://finance.yahoo.com/quote/^KS11",
+    "last_day": "2026-09-30",
+    "downloaded_at_utc": "2026-10-11 23:55"
+  },
+  "risk_free_KOSPI": {
+    "source": "FRED IR3TIB01KRM156N: 3-month interbank rate, % per year, monthly (OECD)",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=IR3TIB01KRM156N",
+    "last_month": "2026-08-01",
+    "downloaded_at_utc": "2026-10-11 23:55"
+  }
+}

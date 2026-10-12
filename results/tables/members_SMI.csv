@@ -1,0 +1,21 @@
+ticker,name,sector,weight
+ROP.SW,Roche PS Par AG,Health Care,0.16937860971139554
+NOVN.SW,Novartis AG,Health Care,0.15825561034057423
+NESN.SW,Nestle SA,Consumer Staples,0.1352648069788156
+ABBN.SW,ABB Ltd,Industrials,0.08543532116834236
+UBSG.SW,UBS Group AG,Financials,0.08535571330927696
+CFR.SW,Compagnie Financiere Richemont SA,Consumer Discretionary,0.06649099027710735
+ZURN.SW,Zurich Insurance Group AG,Financials,0.05921484858915305
+SREN.SW,Swiss Re AG,Financials,0.028616666200699425
+LONN.SW,Lonza Group AG,Health Care,0.027896813356428324
+HOLN.SW,Holcim Ltd AG,Materials,0.02458840129742942
+GALD.SW,Galderma Group N AG,Health Care,0.02179782733550272
+SDZ.SW,Sandoz Group AG,Health Care,0.02153137892425572
+SIKA.SW,Sika AG,Materials,0.020391769210365118
+ALC.SW,Alcon AG,Health Care,0.01862767876947362
+GIVN.SW,Givaudan SA,Materials,0.01804097460804682
+SLHN.SW,Swiss Life Holding AG,Financials,0.017248940478746415
+GEBN.SW,Geberit AG,Industrials,0.01257032933635531
+AMRZ.SW,Amrize AG,Materials,0.011461323458321111
+PGHN.SW,Partners Group Holding AG,Financials,0.00940035266366531
+LOGN.SW,Logitech International,Information Technology,0.008431643986045408

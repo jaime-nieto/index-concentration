@@ -1,0 +1,34 @@
+### The ten largest members of each index
+
+| Index | Rank | Company | Sector | Weight | Share of the risk |
+|---|---|---|---|---|---|
+| SMI | 1 | Roche PS Par AG | Health Care | 16.9% | 20.7% |
+| SMI | 2 | Novartis AG | Health Care | 15.8% | 16.2% |
+| SMI | 3 | Nestle SA | Consumer Staples | 13.5% | 10.1% |
+| SMI | 4 | ABB Ltd | Industrials | 8.5% | 8.7% |
+| SMI | 5 | UBS Group AG | Financials | 8.5% | 8.7% |
+| SMI | 6 | Compagnie Financiere Richemont SA | Consumer Discretionary | 6.6% | 8.6% |
+| SMI | 7 | Zurich Insurance Group AG | Financials | 5.9% | 4.5% |
+| SMI | 8 | Swiss Re AG | Financials | 2.9% | 2.5% |
+| SMI | 9 | Lonza Group AG | Health Care | 2.8% | 2.7% |
+| SMI | 10 | Holcim Ltd AG | Materials | 2.5% | 2.6% |
+| FTSE 100 | 1 | HSBC Holdings plc | Financials | 10.2% | 14.4% |
+| FTSE 100 | 2 | Shell | Energy | 8.2% | 4.5% |
+| FTSE 100 | 3 | Astrazeneca plc | Health Care | 7.3% | 8.2% |
+| FTSE 100 | 4 | Rolls-Royce Holdings plc | Industrials | 4.9% | 8.4% |
+| FTSE 100 | 5 | Unilever plc | Consumer Staples | 3.8% | 2.0% |
+| FTSE 100 | 6 | BP plc | Energy | 3.4% | 1.9% |
+| FTSE 100 | 7 | British American Tobacco | Consumer Staples | 3.3% | 1.9% |
+| FTSE 100 | 8 | Rio Tinto | Materials | 2.9% | 3.0% |
+| FTSE 100 | 9 | Glaxosmithkline | Health Care | 2.9% | 2.8% |
+| FTSE 100 | 10 | Lloyds Banking Group plc | Financials | 2.5% | 3.7% |
+| KOSPI | 1 | Samsung Electronics Co., Ltd. | Information Technology | 29.1% | 34.8% |
+| KOSPI | 2 | SK hynix Inc. | Information Technology | 23.7% | 36.2% |
+| KOSPI | 3 | SK Square Co., Ltd. | Information Technology | 2.8% | 4.4% |
+| KOSPI | 4 | Samsung Electro-Mechanics Co., Ltd. | Information Technology | 2.1% | 2.3% |
+| KOSPI | 5 | LG Energy Solution, Ltd. | Industrials | 1.6% | 0.8% |
+| KOSPI | 6 | Hyundai Motor Company | Consumer Discretionary | 1.3% | 0.9% |
+| KOSPI | 7 | Samsung Biologics Co.,Ltd. | Health Care | 1.2% | 0.3% |
+| KOSPI | 8 | KB Financial Group Inc. | Financials | 1.1% | 0.4% |
+| KOSPI | 9 | Samsung C&T Corporation | Industrials | 1.0% | 1.0% |
+| KOSPI | 10 | Doosan Enerbility Co., Ltd. | Industrials | 1.0% | 0.8% |

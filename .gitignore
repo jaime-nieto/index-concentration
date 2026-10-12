@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Price data are NOT committed: they belong to their providers (Yahoo Finance,
+# iShares, the Korea Exchange, FRED) and redistribution may be restricted.
+# `python run_all.py` downloads whatever is missing.
+# What IS committed:
+#   data/raw/manifest.json          source and download date of every file
+#   data/reference/members_*.csv    members and weights of each index on the day of the study
+data/raw/*
+!data/raw/manifest.json

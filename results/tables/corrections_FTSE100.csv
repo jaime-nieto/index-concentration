@@ -1,0 +1,6 @@
+date,ticker,source,used,why,index
+2023-04-20,MRO.L,0.21656614618714354,0.0,not a return (see config.WRONG_RETURNS); set to zero,FTSE100
+2024-10-21,CCEP.L,-0.17719780219780223,0.0,not a return (see config.WRONG_RETURNS); set to zero,FTSE100
+2018-05-29,BGEO.L,-0.4012849184618936,-0.04355924253055177,"Demerger of Georgia Capital, one share per share",FTSE100
+2020-09-14,IAG.L,-0.30818739333285194,0.04406285525924902,"Rights issue, 3 new shares for 2 at 0.92 euros",FTSE100
+2021-09-13,EZJ.L,-0.13337248739872343,0.02935520638902611,"Rights issue, 31 new shares for 47 at 410p",FTSE100

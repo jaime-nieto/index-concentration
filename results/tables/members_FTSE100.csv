@@ -1,0 +1,103 @@
+ticker,name,sector,weight
+HSBA.L,HSBC Holdings plc,Financials,0.10163513681714281
+SHEL.L,Shell,Energy,0.0824515644013666
+AZN.L,Astrazeneca plc,Health Care,0.07284261391749675
+RR.L,Rolls-Royce Holdings plc,Industrials,0.04850673826423045
+ULVR.L,Unilever plc,Consumer Staples,0.037854274041342464
+BP.L,BP plc,Energy,0.03408954078522667
+BATS.L,British American Tobacco,Consumer Staples,0.033153119084952457
+RIO.L,Rio Tinto,Materials,0.029058854893843356
+GSK.L,Glaxosmithkline,Health Care,0.02890359468481326
+LLOY.L,Lloyds Banking Group plc,Financials,0.024755010274454193
+BARC.L,Barclays plc,Financials,0.024418304411798607
+NG.L,National Grid plc,Utilities,0.022737788111730706
+BA.L,BAE Systems plc,Industrials,0.0227091784089567
+GLEN.L,Glencore plc,Materials,0.022258501403903445
+NWG.L,Natwest Group plc,Financials,0.021716368320893468
+AAL.L,Anglo American plc,Materials,0.017613528603172234
+REL.L,RELX plc,Industrials,0.01723401044408262
+STAN.L,Standard Chartered plc,Financials,0.01605876441113739
+LSEG.L,London Stock Exchange Group plc,Financials,0.015007906537885635
+CPG.L,Compass Group plc,Consumer Discretionary,0.014922010369521293
+DGE.L,Diageo plc,Consumer Staples,0.014307538447369286
+RKT.L,Reckitt Benckiser Group plc,Consumer Staples,0.012643371971573015
+SSE.L,SSE plc,Utilities,0.011936956465413201
+HLN.L,Haleon plc,Health Care,0.011869259542901694
+TSCO.L,Tesco plc,Consumer Staples,0.011387848170608004
+III.L,3i Group plc,Financials,0.010178000392777763
+PRU.L,Prudential plc,Financials,0.009302189945943366
+VOD.L,Vodafone Group plc,Communication,0.008822243865932156
+EXPN.L,Experian plc,Industrials,0.008643737094140461
+AV.L,Aviva plc,Financials,0.008161868977507706
+IMB.L,Imperial Brands plc,Consumer Staples,0.007214752264366038
+IHG.L,Intercontinental Hotels Group plc,Consumer Discretionary,0.0067691287800275115
+SMT.L,Scottish Mortgage Investment Trust,Financials,0.006760634193906799
+NXT.L,Next plc,Consumer Discretionary,0.006557201947473804
+LGEN.L,Legal and General Group plc,Financials,0.0062655096565345045
+CCEP.L,Coca Cola Europacific Partners plc,Consumer Staples,0.005978759796767256
+IAG.L,International Airlines Group,Industrials,0.0056191143794864125
+HLMA.L,Halma plc,Information Technology,0.005208308927769176
+ANTO.L,Antofagasta plc,Materials,0.005089053300624791
+SGRO.L,Segro REIT plc,Real Estate,0.0049559334604918895
+INF.L,Informa plc,Communication,0.004348554789092143
+BT-A.L,BT Group plc,Communication,0.00421006184830315
+UU.L,United Utilities Group plc,Utilities,0.0041566299967892946
+DPLM.L,Diploma plc,Industrials,0.004083664431108199
+ADM.L,Admiral Group plc,Financials,0.0035973667670011708
+EDV.L,Endeavour Mining,Materials,0.0035648298492016676
+ITRK.L,Intertek Group plc,Industrials,0.003558274985389328
+SGE.L,The Sage Group,Information Technology,0.003439072969151564
+SN.L,Smith and Nephew plc,Health Care,0.0033877826854230818
+CCH.L,Coca Cola Hbc AG,Consumer Staples,0.0033575859895344034
+SMIN.L,Smiths Group plc,Industrials,0.0032732292503428718
+BNZL.L,Bunzl,Industrials,0.0032652243525719713
+SVT.L,Severn Trent plc,Utilities,0.0032600980409833724
+MKS.L,Marks and Spencer Group plc,Consumer Staples,0.003062119303907984
+PCT.L,Polar Capital Technology Trust Fun,Financials,0.0030141735602218257
+BEZ.L,Beazley plc,Financials,0.003001542278003846
+IMI.L,IMI plc,Industrials,0.0029901348187369404
+RTO.L,Rentokil Initial plc,Industrials,0.002907720299673015
+PSON.L,Pearson plc,Consumer Discretionary,0.0027810792179819945
+WEIR.L,Weir plc,Industrials,0.0027528743267190106
+CNA.L,Centrica plc,Utilities,0.0026966586474719695
+SDLF.L,Standard Life plc,Financials,0.0026179132256502714
+FCIT.L,F&c Investment Trust Fund plc,Financials,0.0025787904207201233
+MNG.L,M&g plc,Financials,0.0025450595343306354
+SBRY.L,Sainsbury(j) plc,Consumer Staples,0.002442787588146467
+HSX.L,Hiscox Ltd,Financials,0.002346987502453405
+GAW.L,Games Workshop Group plc,Consumer Discretionary,0.0023397239276360927
+MRO.L,Melrose Industries plc,Industrials,0.0023220558846595587
+KGF.L,Kingfisher plc,Consumer Discretionary,0.002163069230860734
+STJ.L,St Jamess Place plc,Financials,0.0021130345598406835
+DCC.L,DCC Energy plc,Energy,0.002097917387578763
+SPX.L,Spirax Group plc,Industrials,0.002053323470313041
+ABF.L,Associated British Foods plc,Consumer Staples,0.002048814060017988
+BGEO.L,Lion Finance Group plc,Financials,0.0020077031925959375
+ALW.L,Alliance Witan Fund plc,Financials,0.002003514796481872
+FRES.L,Fresnillo plc,Materials,0.0019809650388828764
+BAB.L,Babcock International Group plc,Industrials,0.001910431473578373
+ICG.L,ICG plc,Financials,0.0019010584760765193
+PSH.L,Pershing Square Holdings Fund Ltd,Financials,0.0018398552584863261
+MTLN.L,Metlen Energy & Metals plc,Industrials,0.001837508377562379
+CRDA.L,Croda International plc,Materials,0.0018177878072838498
+SDR.L,Schroders plc,Financials,0.001814933576216913
+LAND.L,Land Securities Group REIT plc,Real Estate,0.0018087500952898346
+ABDN.L,Aberdeen Group plc,Financials,0.0017757485573934376
+BTRW.L,Barratt Redrow plc,Consumer Discretionary,0.0017461751828736739
+IGG.L,Ig Group Holdings plc,Financials,0.001735760363193031
+BBY.L,Balfour Beatty plc,Industrials,0.0017125083587759171
+EZJ.L,Easyjet,Industrials,0.0016962635017247528
+CTEC.L,Convatec Group plc,Health Care,0.0016844189492226306
+HWDN.L,Howden Joinery Group plc,Industrials,0.0016470047206083136
+LMP.L,Londonmetric Property REIT plc,Real Estate,0.0016261670590631218
+WPP.L,WPP plc,Communication,0.0015983062566347634
+BLND.L,British Land REIT,Real Estate,0.0015955462369107059
+WTB.L,Whitbread plc,Consumer Discretionary,0.0015700211998965253
+BBOX.L,Tritax Big Box REIT plc,Real Estate,0.001512007117805985
+INVP.L,Investec plc,Financials,0.0014441576273724844
+BRBY.L,Burberry Group plc,Consumer Discretionary,0.0014221449407174152
+AUTO.L,Autotrader Group plc,Communication,0.0013976460154143443
+CCC.L,Computacenter plc,Information Technology,0.0012341777256972125
+AAF.L,Airtel Africa plc,Communication,0.0007569289154383194
+JD.L,JD Sports Fashion plc,Consumer Discretionary,0.0007033248577645448
+ITH.L,Ithaca Energy plc,Energy,0.00024280935165537395
